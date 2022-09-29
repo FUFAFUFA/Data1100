@@ -21,7 +21,7 @@ body {
     font-family: 'Josefin Sans', sans-serif;
 }
 .hovedboks {
-   
+    border: 10px solid rgb(52, 91, 143);
     padding:20px;
     background-color: white;
 }
