@@ -96,14 +96,14 @@ body {
     border-radius: 1px;
 }
 button {
-    width:500px;
-    height: fit-content;
+    width:540px;
+    height: 30px;
     background-color:rgb(49, 49, 49) ;
     color:white;
     text-decoration:none;
     position: absolute;
     top:650px;
-    left:700px;
+    left:660px;
     border-style:none;
     font-family:'Josefin Sans', sans-serif ;
     font-size:medium;
