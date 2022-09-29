@@ -116,3 +116,7 @@ button:hover {
     background-color: #ddd;
     color:black;
 }
+
+hr{
+    margin-right: 13%;
+}
